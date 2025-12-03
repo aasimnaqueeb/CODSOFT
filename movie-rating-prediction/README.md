@@ -2,7 +2,7 @@ Movie Rating Prediction (Machine Learning)
 
 This project predicts IMDb ratings for Indian movies using machine learning models such as Linear Regression, Random Forest, and Gradient Boosting.
 
-The dataset is publicly available on Kaggle:
+The dataset is publicly available on Kaggle: 
 https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
 
 #Steps Performed
@@ -33,5 +33,6 @@ Jupyter / Kaggle Notebook
 
 #How to Run
 
-pip install -r requirements.txt
+pip install -r requirements.txt 
+
 jupyter notebook movie_rating_prediction.ipynb
